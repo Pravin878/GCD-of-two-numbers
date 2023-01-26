@@ -28,8 +28,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.PNG)
-![output](p1.png)
+![output](gcd.png)
 
 
 ## Result:
